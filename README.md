@@ -1,0 +1,2 @@
+# -Research-paper-Heart-disease-prediction-using-machine-learning-algorithms
+Research paper on heart disease prediction , where we (me and my teammates) used different techniques and algorithms for better accuracy and in the end, Random Forest proves the most accurate technique for forecasting heart disease, after comparing different algorithms results, it shows that Random Forest provides accurate and efficient results with 95.08%. (using python)
